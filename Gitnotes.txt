@@ -2,4 +2,5 @@
 2. git status
 3. git add filename
 4. git restore filename
-5.
+5. git commit -m "comment"
+6. git log
