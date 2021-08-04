@@ -4,3 +4,7 @@
 4. git restore filename
 5. git commit -m "comment"
 6. git log
+7. git remote add origin url/Path
+8. git remote -v
+9. git push -u origin master
+10. 
